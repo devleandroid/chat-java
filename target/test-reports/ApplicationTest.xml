@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="CAN-S000087" name="ApplicationTest" tests="2" errors="0" failures="1" time="0.009">
+                <properties> <property name="jline.esc.timeout" value="0"/><property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/><property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_112\jre\bin"/><property name="java.vm.version" value="25.112-b15"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="java.vendor.url" value="http://java.oracle.com/"/><property name="path.separator" value=";"/><property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/><property name="file.encoding.pkg" value="sun.io"/><property name="user.country" value="BR"/><property name="user.script" value=""/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="sun.os.patch.level" value="Service Pack 1"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="user.dir" value="C:\Users\leandro.marques\Downloads\signalj-chat-java\signalj-chat-java"/><property name="java.runtime.version" value="1.8.0_112-b15"/><property name="sbt.boot.properties" value="file:/C:/Users/LEANDR~1.MAR/AppData/Local/Temp/sbtrc4673542813188906520properties"/><property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/><property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_112\jre\lib\endorsed"/><property name="os.arch" value="amd64"/><property name="java.io.tmpdir" value="C:\Users\LEANDR~1.MAR\AppData\Local\Temp\"/><property name="line.separator" value="
+"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="user.variant" value=""/><property name="os.name" value="Windows 7"/><property name="sun.jnu.encoding" value="Cp1252"/><property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_112\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;F:\DevSuiteHome_2\jdk\jre\bin\client;F:\DevSuiteHome_2\bin;F:\DevSuiteHome_2\jlib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ZipGenius 6\;C:\Program Files\nodejs\;C:\Users\leandro.marques\AppData\Local\Programs\Python\Python35-32\Scripts\;C:\Users\leandro.marques\AppData\Local\Programs\Python\Python35-32\;C:\Users\leandro.marques\AppData\Roaming\npm;."/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.class.version" value="52.0"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="os.version" value="6.1"/><property name="user.home" value="C:\Users\leandro.marques"/><property name="user.timezone" value="America/Sao_Paulo"/><property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/><property name="file.encoding" value="Cp1252"/><property name="java.specification.version" value="1.8"/><property name="java.class.path" value="C:\Users\leandro.marques\Downloads\signalj-chat-java\signalj-chat-java\activator-launch-1.2.2.jar"/><property name="user.name" value="leandro.marques"/><property name="jline.shutdownhook" value="false"/><property name="sbtrc.control-port" value="58163"/><property name="java.vm.specification.version" value="1.8"/><property name="sun.java.command" value="C:\Users\leandro.marques\Downloads\signalj-chat-java\signalj-chat-java\activator-launch-1.2.2.jar apply -cp &quot;&quot;&quot;C:/Users/leandro.marques/.sbt/boot/scala-2.10.2/com.typesafe.sbtrc/sbt-rc-probe-0-13/1.0-46280b51037faa6d50698c46c8725d33b75cae1e/sbt-rc-probe-0-13-1.0-46280b51037faa6d50698c46c8725d33b75cae1e.jar;C:/Users/leandro.marques/.sbt/boot/scala-2.10.2/com.typesafe.sbtrc/sbt-rc-probe-0-13/1.0-46280b51037faa6d50698c46c8725d33b75cae1e/sbt-rc-props-1.0-46280b51037faa6d50698c46c8725d33b75cae1e.jar&quot;&quot;&quot; com.typesafe.sbtrc.SetupSbtChild listen"/><property name="java.home" value="C:\Program Files\Java\jdk1.8.0_112\jre"/><property name="sun.arch.data.model" value="64"/><property name="user.language" value="pt"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="awt.toolkit" value="sun.awt.windows.WToolkit"/><property name="java.vm.info" value="mixed mode"/><property name="java.version" value="1.8.0_112"/><property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_112\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/><property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_112\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_112\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_112\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_112\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_112\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_112\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_112\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_112\jre\classes"/><property name="java.vendor" value="Oracle Corporation"/><property name="file.separator" value="\"/><property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/><property name="sun.io.unicode.encoding" value="UnicodeLittle"/><property name="sun.cpu.endian" value="little"/><property name="sun.desktop" value="windows"/><property name="sun.cpu.isalist" value="amd64"/>
+        </properties>
+                <testcase classname="ApplicationTest" name="simpleCheck" time="0.005"> 
+                    </testcase><testcase classname="ApplicationTest" name="renderTemplate" time="0.004"> <failure message="&lt;'
+
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;utf-8&quot;&gt;
+        &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;
+        &lt;title&gt;SignalJ Chat Demo&lt;/title&gt;
+        &lt;link rel=&quot;shortcut icon&quot; type=&quot;image/png&quot; href=&quot;/assets/images/favicon.png&quot;&gt;
+        &lt;link rel='stylesheet' href='/webjars/bootstrap/3.3.1/css/bootstrap.min.css'&gt;
+        &lt;link rel=&quot;stylesheet&quot; media=&quot;screen&quot; href=&quot;/assets/stylesheets/main.css&quot;&gt;
+        &lt;link rel=&quot;shortcut icon&quot; type=&quot;image/png&quot; href=&quot;/assets/images/favicon.png&quot;&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;nav class=&quot;navbar navbar-inverse navbar-fixed-top&quot; role=&quot;navigation&quot;&gt;
+            &lt;div class=&quot;container&quot;&gt;
+                &lt;div class=&quot;navbar-header&quot;&gt;
+                    &lt;button type=&quot;button&quot; class=&quot;navbar-toggle collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#navbar&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;navbar&quot;&gt;
+                        &lt;span class=&quot;sr-only&quot;&gt;Toggle navigation&lt;/span&gt;
+                        &lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
+                        &lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
+                        &lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
+                    &lt;/button&gt;
+                    &lt;a id=&quot;home&quot; class=&quot;navbar-brand&quot; href=&quot;#&quot;&gt;SignalJ Chat Demo&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/nav&gt;
+        &lt;div class=&quot;container&quot;&gt;
+            
+    &lt;div id=&quot;login&quot; class=&quot;row&quot;&gt;
+        &lt;div id=&quot;alert&quot; class=&quot;alert alert-danger&quot; role=&quot;alert&quot;&gt;
+            That username has been taken
+        &lt;/div&gt;
+        &lt;form class=&quot;form-signin&quot; role=&quot;form&quot;&gt;
+            &lt;h2 class=&quot;form-signin-heading&quot;&gt;Please sign in&lt;/h2&gt;
+            &lt;label for=&quot;inputUsername&quot; class=&quot;sr-only&quot;&gt;Username&lt;/label&gt;
+            &lt;input type=&quot;text&quot; id=&quot;inputUsername&quot; class=&quot;form-control&quot; placeholder=&quot;Username&quot; required autofocus&gt;
+            &lt;label for=&quot;inputPassword&quot; class=&quot;sr-only&quot;&gt;Password&lt;/label&gt;
+            &lt;input type=&quot;password&quot; id=&quot;inputPassword&quot; class=&quot;form-control&quot; placeholder=&quot;Password&quot;&gt;
+            &lt;button id=&quot;loginSubmit&quot; class=&quot;btn btn-lg btn-primary btn-block&quot;&gt;Sign in&lt;/button&gt;
+        &lt;/form&gt;
+        &lt;p&gt;Please note: This is not a real login screen, any username and password will be accepted.&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div id=&quot;chat&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;form class=&quot;form-inline&quot; role=&quot;form&quot;&gt;
+                Join existing room:
+                &lt;select id=&quot;roomselect&quot; class=&quot;form-control&quot;&gt;
+                    &lt;option selected&gt;Lobby&lt;/option&gt;
+                &lt;/select&gt;
+                or create a new one:
+                &lt;div class=&quot;form-group&quot;&gt;
+                    &lt;label class=&quot;sr-only&quot; for=&quot;roomname&quot;&gt;Room name&lt;/label&gt;
+                    &lt;input type=&quot;text&quot; class=&quot;form-control&quot; id=&quot;roomname&quot; placeholder=&quot;Room name&quot;&gt;
+                &lt;/div&gt;
+                &lt;button id=&quot;create&quot; class=&quot;btn btn-default&quot;&gt;Create&lt;/button&gt;
+            &lt;/form&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div id=&quot;main&quot; class=&quot;col-md-8&quot;&gt;
+                &lt;div id=&quot;messages&quot;&gt;
+                &lt;/div&gt;
+                &lt;input id=&quot;talk&quot; type=&quot;text&quot; class=&quot;form-control&quot;&gt;
+            &lt;/div&gt;
+            &lt;div id=&quot;membersbar&quot; class=&quot;col-md-4&quot;&gt;
+                &lt;h2&gt;Members&lt;/h2&gt;
+                &lt;ul id=&quot;members&quot;&gt;
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+        &lt;/div&gt;
+        &lt;footer class=&quot;footer&quot;&gt;
+            &lt;div class=&quot;container&quot;&gt;
+                &lt;p class=&quot;text-muted&quot;&gt;SignalJ Chat Demo&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/footer&gt;
+        &lt;script type='text/javascript' src='/webjars/jquery/2.1.1/jquery.min.js'&gt;&lt;/script&gt;
+        &lt;script src=&quot;/signalj/jquery.signalR.js&quot;&gt;&lt;/script&gt;
+        &lt;script type=&quot;text/javascript&quot; charset=&quot;utf-8&quot; src=&quot;/signalj/hubs.js&quot;&gt;&lt;/script&gt;
+        &lt;script type=&quot;text/javascript&quot; charset=&quot;utf-8&quot; src=&quot;/assets/javascripts/chat.js&quot;&gt;&lt;/script&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
+
+'&gt; should contain the String:&lt;'Your new application is ready.'&gt;" type="sbt.ForkMain$ForkError">sbt.ForkMain$ForkError: &lt;'
+
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;utf-8&quot;&gt;
+        &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;
+        &lt;title&gt;SignalJ Chat Demo&lt;/title&gt;
+        &lt;link rel=&quot;shortcut icon&quot; type=&quot;image/png&quot; href=&quot;/assets/images/favicon.png&quot;&gt;
+        &lt;link rel='stylesheet' href='/webjars/bootstrap/3.3.1/css/bootstrap.min.css'&gt;
+        &lt;link rel=&quot;stylesheet&quot; media=&quot;screen&quot; href=&quot;/assets/stylesheets/main.css&quot;&gt;
+        &lt;link rel=&quot;shortcut icon&quot; type=&quot;image/png&quot; href=&quot;/assets/images/favicon.png&quot;&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;nav class=&quot;navbar navbar-inverse navbar-fixed-top&quot; role=&quot;navigation&quot;&gt;
+            &lt;div class=&quot;container&quot;&gt;
+                &lt;div class=&quot;navbar-header&quot;&gt;
+                    &lt;button type=&quot;button&quot; class=&quot;navbar-toggle collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#navbar&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;navbar&quot;&gt;
+                        &lt;span class=&quot;sr-only&quot;&gt;Toggle navigation&lt;/span&gt;
+                        &lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
+                        &lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
+                        &lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
+                    &lt;/button&gt;
+                    &lt;a id=&quot;home&quot; class=&quot;navbar-brand&quot; href=&quot;#&quot;&gt;SignalJ Chat Demo&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/nav&gt;
+        &lt;div class=&quot;container&quot;&gt;
+            
+    &lt;div id=&quot;login&quot; class=&quot;row&quot;&gt;
+        &lt;div id=&quot;alert&quot; class=&quot;alert alert-danger&quot; role=&quot;alert&quot;&gt;
+            That username has been taken
+        &lt;/div&gt;
+        &lt;form class=&quot;form-signin&quot; role=&quot;form&quot;&gt;
+            &lt;h2 class=&quot;form-signin-heading&quot;&gt;Please sign in&lt;/h2&gt;
+            &lt;label for=&quot;inputUsername&quot; class=&quot;sr-only&quot;&gt;Username&lt;/label&gt;
+            &lt;input type=&quot;text&quot; id=&quot;inputUsername&quot; class=&quot;form-control&quot; placeholder=&quot;Username&quot; required autofocus&gt;
+            &lt;label for=&quot;inputPassword&quot; class=&quot;sr-only&quot;&gt;Password&lt;/label&gt;
+            &lt;input type=&quot;password&quot; id=&quot;inputPassword&quot; class=&quot;form-control&quot; placeholder=&quot;Password&quot;&gt;
+            &lt;button id=&quot;loginSubmit&quot; class=&quot;btn btn-lg btn-primary btn-block&quot;&gt;Sign in&lt;/button&gt;
+        &lt;/form&gt;
+        &lt;p&gt;Please note: This is not a real login screen, any username and password will be accepted.&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div id=&quot;chat&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;form class=&quot;form-inline&quot; role=&quot;form&quot;&gt;
+                Join existing room:
+                &lt;select id=&quot;roomselect&quot; class=&quot;form-control&quot;&gt;
+                    &lt;option selected&gt;Lobby&lt;/option&gt;
+                &lt;/select&gt;
+                or create a new one:
+                &lt;div class=&quot;form-group&quot;&gt;
+                    &lt;label class=&quot;sr-only&quot; for=&quot;roomname&quot;&gt;Room name&lt;/label&gt;
+                    &lt;input type=&quot;text&quot; class=&quot;form-control&quot; id=&quot;roomname&quot; placeholder=&quot;Room name&quot;&gt;
+                &lt;/div&gt;
+                &lt;button id=&quot;create&quot; class=&quot;btn btn-default&quot;&gt;Create&lt;/button&gt;
+            &lt;/form&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div id=&quot;main&quot; class=&quot;col-md-8&quot;&gt;
+                &lt;div id=&quot;messages&quot;&gt;
+                &lt;/div&gt;
+                &lt;input id=&quot;talk&quot; type=&quot;text&quot; class=&quot;form-control&quot;&gt;
+            &lt;/div&gt;
+            &lt;div id=&quot;membersbar&quot; class=&quot;col-md-4&quot;&gt;
+                &lt;h2&gt;Members&lt;/h2&gt;
+                &lt;ul id=&quot;members&quot;&gt;
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+        &lt;/div&gt;
+        &lt;footer class=&quot;footer&quot;&gt;
+            &lt;div class=&quot;container&quot;&gt;
+                &lt;p class=&quot;text-muted&quot;&gt;SignalJ Chat Demo&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/footer&gt;
+        &lt;script type='text/javascript' src='/webjars/jquery/2.1.1/jquery.min.js'&gt;&lt;/script&gt;
+        &lt;script src=&quot;/signalj/jquery.signalR.js&quot;&gt;&lt;/script&gt;
+        &lt;script type=&quot;text/javascript&quot; charset=&quot;utf-8&quot; src=&quot;/signalj/hubs.js&quot;&gt;&lt;/script&gt;
+        &lt;script type=&quot;text/javascript&quot; charset=&quot;utf-8&quot; src=&quot;/assets/javascripts/chat.js&quot;&gt;&lt;/script&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
+
+'&gt; should contain the String:&lt;'Your new application is ready.'&gt;
+	at org.fest.assertions.Fail.failure(Fail.java:228)
+	at org.fest.assertions.Assert.failure(Assert.java:149)
+	at org.fest.assertions.StringAssert.contains(StringAssert.java:73)
+	at ApplicationTest.renderTemplate(ApplicationTest.java:41)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:160)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+	at com.novocode.junit.JUnitRunner$1.execute(JUnitRunner.java:125)
+	at sbt.ForkMain$Run$2.call(ForkMain.java:294)
+	at sbt.ForkMain$Run$2.call(ForkMain.java:284)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+                    </testcase>
+                <system-out></system-out>
+                <system-err></system-err>
+                </testsuite>

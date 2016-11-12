@@ -1,0 +1,1179 @@
+2016-11-11 18:44:48,173 - [INFO] - from play in play-fork-run-akka.actor.default-dispatcher-5 
+Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+
+2016-11-11 18:45:21,650 - [INFO] - from play in play-internal-execution-context-1 
+Starting application default Akka system.
+
+2016-11-11 18:45:21,697 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2016-11-11 18:45:24,408 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+e40b249d-1c75-4538-8905-5b769ee4a1bf logged on
+
+2016-11-11 18:45:26,729 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Hub found: hubs.ChatHub
+
+2016-11-11 18:45:26,865 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Registered hub actor: chatHub
+
+2016-11-11 18:45:31,903 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:45:31,918 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+ClientFunctionCall Value: {"C":"d-BA99C9F0-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:46:01,897 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:46:01,900 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientFunctionCall Value: {"C":"d-BA99C9F0-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:46:31,897 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:46:31,898 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+ClientFunctionCall Value: {"C":"d-BA99C9F0-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:47:01,897 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:47:01,898 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientFunctionCall Value: {"C":"d-BA99C9F0-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:47:31,897 - [DEBUG] - from application in application-akka.actor.default-dispatcher-7 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:47:31,899 - [DEBUG] - from application in application-akka.actor.default-dispatcher-7 
+ClientFunctionCall Value: {"C":"d-BA99C9F0-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:47:49,654 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Transport stop
+
+2016-11-11 18:47:53,383 - [INFO] - from play in play-internal-execution-context-3 
+Shutdown application default Akka system.
+
+2016-11-11 18:47:53,529 - [INFO] - from play in play-internal-execution-context-3 
+Starting application default Akka system.
+
+2016-11-11 18:47:53,531 - [INFO] - from play in play-internal-execution-context-3 
+Application started (Dev)
+
+2016-11-11 18:47:55,616 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Hub found: hubs.ChatHub
+
+2016-11-11 18:47:55,623 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Registered hub actor: chatHub
+
+2016-11-11 18:47:55,911 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+091d9226-dada-484e-8d01-df1a033470c1 logged on
+
+2016-11-11 18:48:01,155 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:48:01,157 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+ClientFunctionCall Value: {"C":"d-AB60B375-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:48:31,152 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:48:31,154 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+ClientFunctionCall Value: {"C":"d-AB60B375-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:49:01,152 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:49:01,154 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+ClientFunctionCall Value: {"C":"d-AB60B375-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:49:31,152 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:49:31,154 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+ClientFunctionCall Value: {"C":"d-AB60B375-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:49:48,752 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+Transport stop
+
+2016-11-11 18:49:51,316 - [INFO] - from play in play-internal-execution-context-6 
+Shutdown application default Akka system.
+
+2016-11-11 18:49:51,454 - [INFO] - from play in play-internal-execution-context-6 
+Starting application default Akka system.
+
+2016-11-11 18:49:51,456 - [INFO] - from play in play-internal-execution-context-6 
+Application started (Dev)
+
+2016-11-11 18:49:53,155 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Hub found: hubs.ChatHub
+
+2016-11-11 18:49:53,159 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Registered hub actor: chatHub
+
+2016-11-11 18:49:53,260 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+80ed5834-3bd1-43ae-ac3c-9d541b5d6256 logged on
+
+2016-11-11 18:49:58,314 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:49:58,316 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+ClientFunctionCall Value: {"C":"d-D046FA70-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:50:28,311 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:50:28,312 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientFunctionCall Value: {"C":"d-D046FA70-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:50:58,311 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:50:58,312 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientFunctionCall Value: {"C":"d-D046FA70-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:51:28,310 - [DEBUG] - from application in application-akka.actor.default-dispatcher-7 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:51:28,312 - [DEBUG] - from application in application-akka.actor.default-dispatcher-7 
+ClientFunctionCall Value: {"C":"d-D046FA70-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:51:32,329 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Transport stop
+
+2016-11-11 18:51:34,708 - [INFO] - from play in play-internal-execution-context-9 
+Shutdown application default Akka system.
+
+2016-11-11 18:51:34,923 - [INFO] - from play in play-internal-execution-context-9 
+Starting application default Akka system.
+
+2016-11-11 18:51:34,924 - [INFO] - from play in play-internal-execution-context-9 
+Application started (Dev)
+
+2016-11-11 18:51:36,747 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+Hub found: hubs.ChatHub
+
+2016-11-11 18:51:36,752 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Registered hub actor: chatHub
+
+2016-11-11 18:51:36,830 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+0a249af2-f0d7-4863-b123-3d1000dbb7b4 logged on
+
+2016-11-11 18:51:41,869 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:51:41,871 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+ClientFunctionCall Value: {"C":"d-58BB640-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:52:11,863 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:52:11,864 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+ClientFunctionCall Value: {"C":"d-58BB640-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:52:41,864 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:52:41,865 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+ClientFunctionCall Value: {"C":"d-58BB640-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:53:09,043 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+Transport stop
+
+2016-11-11 18:53:09,414 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+6c364260-4ef3-4c5d-9d3c-2b9e119c536f logged on
+
+2016-11-11 18:53:11,863 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:53:11,864 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientFunctionCall Value: {"C":"d-53435130-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:53:13,432 - [DEBUG] - from application in application-akka.actor.default-dispatcher-7 
+Transport stop
+
+2016-11-11 18:53:13,695 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+8084bd12-6461-40c0-8ff0-ff5f71a5c4c1 logged on
+
+2016-11-11 18:53:15,825 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+Transport stop
+
+2016-11-11 18:53:16,074 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+b233a7ce-2bc5-41c4-92ea-3b5c3359826a logged on
+
+2016-11-11 18:53:17,566 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+Transport stop
+
+2016-11-11 18:53:17,841 - [DEBUG] - from application in application-akka.actor.default-dispatcher-10 
+e00791fe-b86c-4adb-96a7-527c3b41fdbc logged on
+
+2016-11-11 18:53:19,349 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Transport stop
+
+2016-11-11 18:53:19,590 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+f136a60c-5f00-4e05-892e-0be0d0e37cf1 logged on
+
+2016-11-11 18:53:21,100 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+Transport stop
+
+2016-11-11 18:53:21,360 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+422f85bf-cc09-4647-8ec8-c7ad276cbb94 logged on
+
+2016-11-11 18:53:36,270 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+Transport stop
+
+2016-11-11 18:53:38,311 - [INFO] - from play in play-internal-execution-context-18 
+Shutdown application default Akka system.
+
+2016-11-11 18:53:38,506 - [INFO] - from play in play-internal-execution-context-18 
+Starting application default Akka system.
+
+2016-11-11 18:53:38,507 - [INFO] - from play in play-internal-execution-context-18 
+Application started (Dev)
+
+2016-11-11 18:53:40,290 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Hub found: hubs.ChatHub
+
+2016-11-11 18:53:40,293 - [DEBUG] - from application in application-akka.actor.default-dispatcher-7 
+Registered hub actor: chatHub
+
+2016-11-11 18:53:40,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+1d47be17-06bc-408f-8810-664388c0a8e0 logged on
+
+2016-11-11 18:53:45,454 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:53:45,460 - [DEBUG] - from application in application-akka.actor.default-dispatcher-7 
+ClientFunctionCall Value: {"C":"d-C6FFE240-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:53:57,170 - [DEBUG] - from application in application-akka.actor.default-dispatcher-7 
+Transport stop
+
+2016-11-11 18:53:59,136 - [INFO] - from play in play-internal-execution-context-21 
+Shutdown application default Akka system.
+
+2016-11-11 18:53:59,289 - [INFO] - from play in play-internal-execution-context-21 
+Starting application default Akka system.
+
+2016-11-11 18:53:59,290 - [INFO] - from play in play-internal-execution-context-21 
+Application started (Dev)
+
+2016-11-11 18:54:00,972 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Hub found: hubs.ChatHub
+
+2016-11-11 18:54:00,982 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Registered hub actor: chatHub
+
+2016-11-11 18:54:01,238 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+caf69b9f-66c8-4a7a-8704-71a69f7151ea logged on
+
+2016-11-11 18:54:06,282 - [DEBUG] - from application in application-akka.actor.default-dispatcher-10 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:54:06,285 - [DEBUG] - from application in application-akka.actor.default-dispatcher-10 
+ClientFunctionCall Value: {"C":"d-59F14BF5-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:54:10,130 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Transport stop
+
+2016-11-11 18:54:12,021 - [INFO] - from play in play-internal-execution-context-23 
+Shutdown application default Akka system.
+
+2016-11-11 18:54:12,147 - [INFO] - from play in play-internal-execution-context-23 
+Starting application default Akka system.
+
+2016-11-11 18:54:12,148 - [INFO] - from play in play-internal-execution-context-23 
+Application started (Dev)
+
+2016-11-11 18:54:13,960 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Hub found: hubs.ChatHub
+
+2016-11-11 18:54:13,964 - [DEBUG] - from application in application-akka.actor.default-dispatcher-9 
+Registered hub actor: chatHub
+
+2016-11-11 18:54:14,037 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+71c31fbd-7431-4a49-874e-1b1b39af23ce logged on
+
+2016-11-11 18:54:19,073 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:54:19,074 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+ClientFunctionCall Value: {"C":"d-4C81DBBE-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:54:22,933 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Transport stop
+
+2016-11-11 18:54:24,542 - [INFO] - from play in play-internal-execution-context-24 
+Shutdown application default Akka system.
+
+2016-11-11 18:54:24,646 - [INFO] - from play in play-internal-execution-context-24 
+Starting application default Akka system.
+
+2016-11-11 18:54:24,653 - [INFO] - from play in play-internal-execution-context-24 
+Application started (Dev)
+
+2016-11-11 18:54:26,239 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Hub found: hubs.ChatHub
+
+2016-11-11 18:54:26,243 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Registered hub actor: chatHub
+
+2016-11-11 18:54:26,319 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+2671b38c-042c-4c13-bba7-fbd89558a0da logged on
+
+2016-11-11 18:54:31,396 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:54:31,398 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+ClientFunctionCall Value: {"C":"d-A4487736-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:54:35,013 - [DEBUG] - from application in application-akka.actor.default-dispatcher-7 
+Transport stop
+
+2016-11-11 18:54:36,923 - [INFO] - from play in play-internal-execution-context-27 
+Shutdown application default Akka system.
+
+2016-11-11 18:54:37,023 - [INFO] - from play in play-internal-execution-context-27 
+Starting application default Akka system.
+
+2016-11-11 18:54:37,024 - [INFO] - from play in play-internal-execution-context-27 
+Application started (Dev)
+
+2016-11-11 18:54:38,612 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Hub found: hubs.ChatHub
+
+2016-11-11 18:54:38,615 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+Registered hub actor: chatHub
+
+2016-11-11 18:54:38,751 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+43e6ea69-0309-4712-a93e-109c5df9b822 logged on
+
+2016-11-11 18:54:43,789 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:54:43,790 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+ClientFunctionCall Value: {"C":"d-C36A183D-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:54:47,526 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Transport stop
+
+2016-11-11 18:54:49,086 - [INFO] - from play in play-internal-execution-context-29 
+Shutdown application default Akka system.
+
+2016-11-11 18:54:49,173 - [INFO] - from play in play-internal-execution-context-29 
+Starting application default Akka system.
+
+2016-11-11 18:54:49,174 - [INFO] - from play in play-internal-execution-context-29 
+Application started (Dev)
+
+2016-11-11 18:54:50,892 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Hub found: hubs.ChatHub
+
+2016-11-11 18:54:50,896 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+Registered hub actor: chatHub
+
+2016-11-11 18:54:50,986 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+10357fb0-55fb-4ec1-9307-2e7821c5953f logged on
+
+2016-11-11 18:54:56,027 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:54:56,029 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+ClientFunctionCall Value: {"C":"d-70BFEDB0-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:55:26,021 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:55:26,022 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+ClientFunctionCall Value: {"C":"d-70BFEDB0-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:55:56,021 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:55:56,022 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+ClientFunctionCall Value: {"C":"d-70BFEDB0-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:56:26,021 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:56:26,021 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientFunctionCall Value: {"C":"d-70BFEDB0-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:56:56,020 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:56:56,021 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientFunctionCall Value: {"C":"d-70BFEDB0-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:57:11,163 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Transport stop
+
+2016-11-11 18:57:12,649 - [INFO] - from play in play-internal-execution-context-32 
+Shutdown application default Akka system.
+
+2016-11-11 18:57:12,716 - [INFO] - from play in play-internal-execution-context-32 
+Starting application default Akka system.
+
+2016-11-11 18:57:12,718 - [INFO] - from play in play-internal-execution-context-32 
+Application started (Dev)
+
+2016-11-11 18:57:14,280 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Hub found: hubs.ChatHub
+
+2016-11-11 18:57:14,284 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Registered hub actor: chatHub
+
+2016-11-11 18:57:14,371 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+bed929ba-a3e7-409d-aaff-261fe2518428 logged on
+
+2016-11-11 18:57:19,414 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:57:19,418 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientFunctionCall Value: {"C":"d-75AD201C-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:57:49,212 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Transport stop
+
+2016-11-11 18:57:49,410 - [DEBUG] - from application in application-akka.actor.default-dispatcher-7 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:57:50,668 - [INFO] - from play in play-internal-execution-context-35 
+Shutdown application default Akka system.
+
+2016-11-11 18:57:50,754 - [INFO] - from play in play-internal-execution-context-35 
+Starting application default Akka system.
+
+2016-11-11 18:57:50,756 - [INFO] - from play in play-internal-execution-context-35 
+Application started (Dev)
+
+2016-11-11 18:57:52,398 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Hub found: hubs.ChatHub
+
+2016-11-11 18:57:52,401 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Registered hub actor: chatHub
+
+2016-11-11 18:57:52,471 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+2ceb96f5-d0a2-4b9e-a0bd-3dec2aad59b5 logged on
+
+2016-11-11 18:57:57,509 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:57:57,510 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+ClientFunctionCall Value: {"C":"d-B13BE6B9-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:58:27,506 - [DEBUG] - from application in application-akka.actor.default-dispatcher-7 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:58:27,506 - [DEBUG] - from application in application-akka.actor.default-dispatcher-10 
+ClientFunctionCall Value: {"C":"d-B13BE6B9-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:58:57,505 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:58:57,507 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+ClientFunctionCall Value: {"C":"d-B13BE6B9-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:59:27,506 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:59:27,507 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientFunctionCall Value: {"C":"d-B13BE6B9-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 18:59:57,506 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 18:59:57,507 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+ClientFunctionCall Value: {"C":"d-B13BE6B9-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:00:13,268 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Transport stop
+
+2016-11-11 19:00:14,621 - [INFO] - from play in play-internal-execution-context-38 
+Shutdown application default Akka system.
+
+2016-11-11 19:00:14,667 - [INFO] - from play in play-internal-execution-context-38 
+Starting application default Akka system.
+
+2016-11-11 19:00:14,670 - [INFO] - from play in play-internal-execution-context-38 
+Application started (Dev)
+
+2016-11-11 19:00:16,266 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Hub found: hubs.ChatHub
+
+2016-11-11 19:00:16,269 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Registered hub actor: chatHub
+
+2016-11-11 19:00:16,386 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+0add0684-66db-4039-be45-8ef727ea6797 logged on
+
+2016-11-11 19:00:20,451 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Transport stop
+
+2016-11-11 19:00:20,709 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+aed21261-9176-4f1f-8172-5b5206932d4f logged on
+
+2016-11-11 19:00:21,423 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:00:21,424 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+ClientFunctionCall Value: {"C":"d-6331319F-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:00:23,714 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Transport stop
+
+2016-11-11 19:00:23,976 - [DEBUG] - from application in application-akka.actor.default-dispatcher-9 
+7ef467b0-469d-4398-9f27-664fc3e5d7e9 logged on
+
+2016-11-11 19:00:25,502 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+Transport stop
+
+2016-11-11 19:00:25,846 - [DEBUG] - from application in application-akka.actor.default-dispatcher-9 
+bf004fcf-d4d4-4b20-a159-949dd8bb4770 logged on
+
+2016-11-11 19:00:27,400 - [DEBUG] - from application in play-internal-execution-context-36 
+Message from user: bf004fcf-d4d4-4b20-a159-949dd8bb4770 : {"H":"chathub","M":"login","A":[""],"I":0}
+
+2016-11-11 19:00:27,407 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+InGroupExcept: chatHub - userJoinedRoom []
+
+2016-11-11 19:00:27,407 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+All: chatHub - roomList [[Lobby]]
+
+2016-11-11 19:00:27,409 - [DEBUG] - from application in application-akka.actor.default-dispatcher-9 
+bf004fcf-d4d4-4b20-a159-949dd8bb4770 joined group: Lobby
+
+2016-11-11 19:00:27,413 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+Group: chatHub - userList [[, Robot]]
+
+2016-11-11 19:00:27,413 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+Caller: chatHub - roomList [[Lobby]]
+
+2016-11-11 19:00:27,432 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientFunctionCall Value: {"C":"d-EC4CD6A2-","M":[{"H":"chatHub","M":"roomList","A":[["Lobby"]]}]}
+
+2016-11-11 19:00:27,433 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientFunctionCall Value: {"C":"d-EC4CD6A2-","M":[{"H":"chatHub","M":"userList","A":[["","Robot"]]}]}
+
+2016-11-11 19:00:27,436 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientFunctionCall Value: {"C":"d-EC4CD6A2-","M":[{"H":"chatHub","M":"roomList","A":[["Lobby"]]}]}
+
+2016-11-11 19:00:27,439 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Return Value: {"S":{"username":""},"R":true,"I":"0"}
+
+2016-11-11 19:00:27,440 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Return Value: {"R":true,"I":"0"}
+
+2016-11-11 19:00:51,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-10 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:00:51,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-11 
+ClientFunctionCall Value: {"C":"d-EC4CD6A2-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:00:58,712 - [DEBUG] - from application in application-akka.actor.default-dispatcher-11 
+Transport stop
+
+2016-11-11 19:00:58,982 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+8f12d5b7-cc7a-460c-bc66-019eceb0ab03 logged on
+
+2016-11-11 19:01:21,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:01:21,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-10 
+ClientFunctionCall Value: {"C":"d-221E5F53-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:01:51,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-10 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:01:51,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-7 
+ClientFunctionCall Value: {"C":"d-221E5F53-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:02:21,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:02:21,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+ClientFunctionCall Value: {"C":"d-221E5F53-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:02:51,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-14 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:02:51,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-11 
+ClientFunctionCall Value: {"C":"d-221E5F53-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:02:57,022 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+Transport stop
+
+2016-11-11 19:02:58,087 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+aa92dd6c-a0a1-4add-9656-860247267a04 logged on
+
+2016-11-11 19:03:00,185 - [DEBUG] - from application in application-akka.actor.default-dispatcher-18 
+Transport stop
+
+2016-11-11 19:03:00,403 - [DEBUG] - from application in application-akka.actor.default-dispatcher-18 
+184bb385-8c60-4d6c-bea2-5226c53d9f62 logged on
+
+2016-11-11 19:03:21,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-11 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:03:21,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-22 
+ClientFunctionCall Value: {"C":"d-25D09362-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:03:23,703 - [DEBUG] - from application in application-akka.actor.default-dispatcher-25 
+Transport stop
+
+2016-11-11 19:03:24,458 - [DEBUG] - from application in application-akka.actor.default-dispatcher-13 
+213116b4-6bdf-40b4-8903-25800e128423 logged on
+
+2016-11-11 19:03:51,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:03:51,422 - [DEBUG] - from application in application-akka.actor.default-dispatcher-11 
+ClientFunctionCall Value: {"C":"d-D67ED550-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:04:21,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-25 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:04:21,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-14 
+ClientFunctionCall Value: {"C":"d-D67ED550-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:04:34,699 - [DEBUG] - from application in application-akka.actor.default-dispatcher-14 
+Transport stop
+
+2016-11-11 19:04:35,461 - [DEBUG] - from application in application-akka.actor.default-dispatcher-23 
+036d6026-87a2-41ed-8832-35e634b12338 logged on
+
+2016-11-11 19:04:51,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-33 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:04:51,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-31 
+ClientFunctionCall Value: {"C":"d-ACA179D0-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:05:21,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-27 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:05:21,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+ClientFunctionCall Value: {"C":"d-ACA179D0-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:05:51,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-41 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:05:51,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-34 
+ClientFunctionCall Value: {"C":"d-ACA179D0-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:06:21,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-34 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:06:21,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-10 
+ClientFunctionCall Value: {"C":"d-ACA179D0-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:06:23,243 - [DEBUG] - from application in application-akka.actor.default-dispatcher-49 
+Transport stop
+
+2016-11-11 19:06:24,124 - [DEBUG] - from application in application-akka.actor.default-dispatcher-48 
+73be4eb2-1b65-44c4-b3f6-8178bb73b16f logged on
+
+2016-11-11 19:06:51,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-49 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:06:51,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-41 
+ClientFunctionCall Value: {"C":"d-BEB7DE4C-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:07:21,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:07:21,423 - [DEBUG] - from application in application-akka.actor.default-dispatcher-53 
+ClientFunctionCall Value: {"C":"d-BEB7DE4C-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:07:30,538 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+Transport stop
+
+2016-11-11 19:07:31,506 - [DEBUG] - from application in application-akka.actor.default-dispatcher-52 
+04eb4384-fcbc-4176-81c6-cc017211c3dc logged on
+
+2016-11-11 19:07:51,419 - [DEBUG] - from application in application-akka.actor.default-dispatcher-52 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:07:51,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-34 
+ClientFunctionCall Value: {"C":"d-25A7F3B9-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:08:03,165 - [DEBUG] - from application in application-akka.actor.default-dispatcher-49 
+Transport stop
+
+2016-11-11 19:08:03,888 - [DEBUG] - from application in application-akka.actor.default-dispatcher-57 
+7481f8e6-2582-4fcc-9436-9983fca4c02e logged on
+
+2016-11-11 19:08:21,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-49 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:08:21,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-59 
+ClientFunctionCall Value: {"C":"d-DC71F470-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:08:24,430 - [DEBUG] - from application in application-akka.actor.default-dispatcher-61 
+Transport stop
+
+2016-11-11 19:08:25,206 - [DEBUG] - from application in application-akka.actor.default-dispatcher-10 
+fdb862fb-01f2-49ab-a08f-a76f3492c7e4 logged on
+
+2016-11-11 19:08:51,419 - [DEBUG] - from application in application-akka.actor.default-dispatcher-57 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:08:51,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-61 
+ClientFunctionCall Value: {"C":"d-A1A93026-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:09:20,252 - [DEBUG] - from application in application-akka.actor.default-dispatcher-54 
+Transport stop
+
+2016-11-11 19:09:21,282 - [DEBUG] - from application in application-akka.actor.default-dispatcher-64 
+be9eb7b0-2a10-44ca-8b78-f46194ee8327 logged on
+
+2016-11-11 19:09:21,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-34 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:09:21,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-10 
+ClientFunctionCall Value: {"C":"d-CDEFA1C9-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:09:51,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-67 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:09:51,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-64 
+ClientFunctionCall Value: {"C":"d-CDEFA1C9-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:09:56,901 - [DEBUG] - from application in application-akka.actor.default-dispatcher-64 
+Transport stop
+
+2016-11-11 19:09:57,831 - [DEBUG] - from application in application-akka.actor.default-dispatcher-10 
+a17e17a7-eb8a-4af6-b64f-12fbd8b14b31 logged on
+
+2016-11-11 19:10:21,419 - [DEBUG] - from application in application-akka.actor.default-dispatcher-58 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:10:21,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-60 
+ClientFunctionCall Value: {"C":"d-6619E2B0-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:10:51,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-60 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:10:51,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-58 
+ClientFunctionCall Value: {"C":"d-6619E2B0-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:11:21,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-58 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:11:21,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-78 
+ClientFunctionCall Value: {"C":"d-6619E2B0-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:11:23,472 - [DEBUG] - from application in application-akka.actor.default-dispatcher-58 
+Transport stop
+
+2016-11-11 19:11:25,370 - [DEBUG] - from application in application-akka.actor.default-dispatcher-84 
+9ee2ec22-f7f2-4aa8-b946-d550ba8ecc65 logged on
+
+2016-11-11 19:11:26,133 - [DEBUG] - from application in application-akka.actor.default-dispatcher-78 
+Transport stop
+
+2016-11-11 19:11:26,395 - [DEBUG] - from application in application-akka.actor.default-dispatcher-71 
+b0e1158e-e2c2-4e9b-a9c5-776146ef2a12 logged on
+
+2016-11-11 19:11:40,224 - [DEBUG] - from application in application-akka.actor.default-dispatcher-34 
+Transport stop
+
+2016-11-11 19:11:40,649 - [DEBUG] - from application in application-akka.actor.default-dispatcher-34 
+023f6d27-5498-4f24-81a2-c437910022b6 logged on
+
+2016-11-11 19:11:42,941 - [DEBUG] - from application in application-akka.actor.default-dispatcher-58 
+Transport stop
+
+2016-11-11 19:11:43,237 - [DEBUG] - from application in application-akka.actor.default-dispatcher-73 
+f5ca0650-e671-4e45-aab1-b8e883620feb logged on
+
+2016-11-11 19:11:51,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-58 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:11:51,422 - [DEBUG] - from application in application-akka.actor.default-dispatcher-80 
+ClientFunctionCall Value: {"C":"d-35EF9FF0-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:12:21,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-34 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:12:21,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-75 
+ClientFunctionCall Value: {"C":"d-35EF9FF0-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:12:51,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-90 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:12:51,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-88 
+ClientFunctionCall Value: {"C":"d-35EF9FF0-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:13:21,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-96 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:13:21,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-58 
+ClientFunctionCall Value: {"C":"d-35EF9FF0-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:13:51,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-75 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:13:51,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-80 
+ClientFunctionCall Value: {"C":"d-35EF9FF0-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:14:21,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-95 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:14:21,422 - [DEBUG] - from application in application-akka.actor.default-dispatcher-89 
+ClientFunctionCall Value: {"C":"d-35EF9FF0-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:14:51,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-96 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:14:51,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-80 
+ClientFunctionCall Value: {"C":"d-35EF9FF0-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:15:21,420 - [DEBUG] - from application in application-akka.actor.default-dispatcher-111 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:15:21,421 - [DEBUG] - from application in application-akka.actor.default-dispatcher-96 
+ClientFunctionCall Value: {"C":"d-35EF9FF0-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:15:34,836 - [DEBUG] - from application in application-akka.actor.default-dispatcher-114 
+Transport stop
+
+2016-11-11 19:15:36,025 - [INFO] - from play in play-internal-execution-context-79 
+Shutdown application default Akka system.
+
+2016-11-11 19:15:36,107 - [INFO] - from play in play-internal-execution-context-79 
+Starting application default Akka system.
+
+2016-11-11 19:15:36,107 - [INFO] - from play in play-internal-execution-context-79 
+Application started (Dev)
+
+2016-11-11 19:15:37,815 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+Hub found: hubs.ChatHub
+
+2016-11-11 19:15:37,818 - [DEBUG] - from application in application-akka.actor.default-dispatcher-9 
+Registered hub actor: chatHub
+
+2016-11-11 19:15:37,911 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+76cf3c09-088a-4a52-b37a-ecaf4b6d28cd logged on
+
+2016-11-11 19:15:42,943 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:15:42,944 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+ClientFunctionCall Value: {"C":"d-C827F59C-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:16:12,939 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:16:12,940 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+ClientFunctionCall Value: {"C":"d-C827F59C-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:16:15,198 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Transport stop
+
+2016-11-11 19:16:16,307 - [INFO] - from play in play-internal-execution-context-81 
+Shutdown application default Akka system.
+
+2016-11-11 19:16:16,382 - [INFO] - from play in play-internal-execution-context-81 
+Starting application default Akka system.
+
+2016-11-11 19:16:16,382 - [INFO] - from play in play-internal-execution-context-81 
+Application started (Dev)
+
+2016-11-11 19:16:18,120 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Hub found: hubs.ChatHub
+
+2016-11-11 19:16:18,124 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Registered hub actor: chatHub
+
+2016-11-11 19:16:18,196 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+57ae0335-ada3-45ec-85ae-d97b1cd79dde logged on
+
+2016-11-11 19:16:23,232 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:16:23,234 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+ClientFunctionCall Value: {"C":"d-1D875D11-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:16:53,228 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:16:53,229 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+ClientFunctionCall Value: {"C":"d-1D875D11-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:17:03,639 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Transport stop
+
+2016-11-11 19:17:04,832 - [INFO] - from play in play-internal-execution-context-82 
+Shutdown application default Akka system.
+
+2016-11-11 19:17:04,967 - [INFO] - from play in play-internal-execution-context-82 
+Starting application default Akka system.
+
+2016-11-11 19:17:04,970 - [INFO] - from play in play-internal-execution-context-82 
+Application started (Dev)
+
+2016-11-11 19:17:06,620 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Hub found: hubs.ChatHub
+
+2016-11-11 19:17:06,624 - [DEBUG] - from application in application-akka.actor.default-dispatcher-9 
+Registered hub actor: chatHub
+
+2016-11-11 19:17:06,748 - [DEBUG] - from application in application-akka.actor.default-dispatcher-9 
+92957300-b64f-4109-b916-09193d1f9d94 logged on
+
+2016-11-11 19:17:11,780 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:17:11,782 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientFunctionCall Value: {"C":"d-AF711FDC-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:17:12,198 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Transport stop
+
+2016-11-11 19:17:12,530 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+ae885ef3-f392-4298-b3fd-ff88d855af4f logged on
+
+2016-11-11 19:17:41,777 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:17:41,777 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientFunctionCall Value: {"C":"d-68703F51-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:18:11,777 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:18:11,778 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+ClientFunctionCall Value: {"C":"d-68703F51-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:18:18,712 - [DEBUG] - from application in application-akka.actor.default-dispatcher-9 
+Transport stop
+
+2016-11-11 19:18:19,884 - [INFO] - from play in play-internal-execution-context-89 
+Shutdown application default Akka system.
+
+2016-11-11 19:18:20,074 - [INFO] - from play in play-internal-execution-context-89 
+Starting application default Akka system.
+
+2016-11-11 19:18:20,077 - [INFO] - from play in play-internal-execution-context-89 
+Application started (Dev)
+
+2016-11-11 19:18:21,799 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Hub found: hubs.ChatHub
+
+2016-11-11 19:18:21,806 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Registered hub actor: chatHub
+
+2016-11-11 19:18:21,893 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+8eca8219-326c-4b70-b9f0-ead6c56f232b logged on
+
+2016-11-11 19:18:26,951 - [DEBUG] - from application in application-akka.actor.default-dispatcher-9 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:18:26,952 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+ClientFunctionCall Value: {"C":"d-486C242E-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:18:56,947 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:18:56,948 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+ClientFunctionCall Value: {"C":"d-486C242E-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:19:26,948 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:19:26,949 - [DEBUG] - from application in application-akka.actor.default-dispatcher-9 
+ClientFunctionCall Value: {"C":"d-486C242E-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:19:56,948 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:19:56,948 - [DEBUG] - from application in application-akka.actor.default-dispatcher-9 
+ClientFunctionCall Value: {"C":"d-486C242E-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:20:26,947 - [DEBUG] - from application in application-akka.actor.default-dispatcher-9 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:20:26,948 - [DEBUG] - from application in application-akka.actor.default-dispatcher-9 
+ClientFunctionCall Value: {"C":"d-486C242E-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:20:56,948 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:20:56,949 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+ClientFunctionCall Value: {"C":"d-486C242E-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:21:26,947 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:21:26,948 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+ClientFunctionCall Value: {"C":"d-486C242E-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:21:56,948 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:21:56,949 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientFunctionCall Value: {"C":"d-486C242E-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:22:26,947 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:22:26,948 - [DEBUG] - from application in application-akka.actor.default-dispatcher-9 
+ClientFunctionCall Value: {"C":"d-486C242E-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:22:56,947 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:22:56,948 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+ClientFunctionCall Value: {"C":"d-486C242E-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:23:23,050 - [INFO] - from play in play-internal-execution-context-87 
+Shutdown application default Akka system.
+
+2016-11-11 19:23:23,062 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Transport stop
+
+2016-11-11 19:23:23,123 - [INFO] - from play in play-internal-execution-context-87 
+Starting application default Akka system.
+
+2016-11-11 19:23:23,125 - [INFO] - from play in play-internal-execution-context-87 
+Application started (Dev)
+
+2016-11-11 19:23:24,691 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Hub found: hubs.ChatHub
+
+2016-11-11 19:23:24,696 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Registered hub actor: chatHub
+
+2016-11-11 19:23:36,611 - [INFO] - from play in play-internal-execution-context-91 
+Shutdown application default Akka system.
+
+2016-11-11 19:23:36,680 - [INFO] - from play in play-internal-execution-context-91 
+Starting application default Akka system.
+
+2016-11-11 19:23:36,681 - [INFO] - from play in play-internal-execution-context-91 
+Application started (Dev)
+
+2016-11-11 19:23:38,354 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Hub found: hubs.ChatHub
+
+2016-11-11 19:23:38,358 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+Registered hub actor: chatHub
+
+2016-11-11 19:23:38,432 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+2b0b3645-79f3-4525-8802-31361c136371 logged on
+
+2016-11-11 19:23:43,466 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:23:43,467 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+ClientFunctionCall Value: {"C":"d-15F9F454-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:24:02,736 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Transport stop
+
+2016-11-11 19:24:03,854 - [INFO] - from play in play-internal-execution-context-90 
+Shutdown application default Akka system.
+
+2016-11-11 19:24:03,921 - [INFO] - from play in play-internal-execution-context-90 
+Starting application default Akka system.
+
+2016-11-11 19:24:03,923 - [INFO] - from play in play-internal-execution-context-90 
+Application started (Dev)
+
+2016-11-11 19:24:05,532 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Hub found: hubs.ChatHub
+
+2016-11-11 19:24:05,536 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Registered hub actor: chatHub
+
+2016-11-11 19:24:05,633 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+5b718f14-05e7-4802-9ef6-32b07399c959 logged on
+
+2016-11-11 19:24:07,663 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Transport stop
+
+2016-11-11 19:24:07,907 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+17db48e7-b260-43f8-bb59-ba7e8baec599 logged on
+
+2016-11-11 19:24:10,671 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:24:10,672 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+ClientFunctionCall Value: {"C":"d-B2A357F8-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:24:37,526 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Transport stop
+
+2016-11-11 19:24:38,608 - [INFO] - from play in play-internal-execution-context-97 
+Shutdown application default Akka system.
+
+2016-11-11 19:24:38,689 - [INFO] - from play in play-internal-execution-context-97 
+Starting application default Akka system.
+
+2016-11-11 19:24:38,690 - [INFO] - from play in play-internal-execution-context-97 
+Application started (Dev)
+
+2016-11-11 19:24:40,447 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Hub found: hubs.ChatHub
+
+2016-11-11 19:24:40,451 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+Registered hub actor: chatHub
+
+2016-11-11 19:24:40,610 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+86eef015-7acc-41c7-b934-ed6bc8d65eec logged on
+
+2016-11-11 19:24:45,645 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:24:45,647 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientFunctionCall Value: {"C":"d-B5286C40-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:25:07,678 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Transport stop
+
+2016-11-11 19:25:08,713 - [INFO] - from play in play-internal-execution-context-101 
+Shutdown application default Akka system.
+
+2016-11-11 19:25:08,772 - [INFO] - from play in play-internal-execution-context-101 
+Starting application default Akka system.
+
+2016-11-11 19:25:08,774 - [INFO] - from play in play-internal-execution-context-101 
+Application started (Dev)
+
+2016-11-11 19:25:10,345 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+Hub found: hubs.ChatHub
+
+2016-11-11 19:25:10,348 - [DEBUG] - from application in application-akka.actor.default-dispatcher-7 
+Registered hub actor: chatHub
+
+2016-11-11 19:25:10,424 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+5a89e928-5b64-4169-bab3-f938c5889c2d logged on
+
+2016-11-11 19:25:15,459 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:25:15,461 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+ClientFunctionCall Value: {"C":"d-BACB7887-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:25:15,837 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+Transport stop
+
+2016-11-11 19:25:16,068 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+e090a80c-5e86-4fad-aa35-47b0707985e7 logged on
+
+2016-11-11 19:25:30,215 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+Transport stop
+
+2016-11-11 19:25:30,514 - [DEBUG] - from application in application-akka.actor.default-dispatcher-7 
+642872f9-ead6-415a-9f07-43f01794c91e logged on
+
+2016-11-11 19:25:45,456 - [DEBUG] - from application in application-akka.actor.default-dispatcher-9 
+All: chatHub - sendMessage [Robot, I am alive!]
+
+2016-11-11 19:25:45,457 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+ClientFunctionCall Value: {"C":"d-E2B8AF50-","M":[{"H":"chatHub","M":"sendMessage","A":["Robot","I am alive!"]}]}
+
+2016-11-11 19:26:01,975 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+Transport stop
+
+2016-11-11 19:26:02,498 - [INFO] - from play in play-fork-run-akka.actor.default-dispatcher-131 
+Shutdown application default Akka system.
+
